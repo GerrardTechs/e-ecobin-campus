@@ -299,7 +299,7 @@ export default function App() {
           <div className="flex items-center space-x-4">
             <div className="w-14 h-14 flex-shrink-0">
               <img 
-                src="/LOGO E-ECOBIN.jpg" 
+                src="/logo.jpg" 
                 onError={(e) => {
                   e.target.onerror = null;
                   e.target.style.display = 'none';
